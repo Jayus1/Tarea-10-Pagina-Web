@@ -1,0 +1,33 @@
+body {
+  background: url("fondo.jpg");
+  background-size: 100%;
+}
+#principales {
+  border: solid 1px black;
+  margin: 0 auto;
+  width: 80%;
+  background-color: white;
+  padding: 5px;
+}
+
+fieldset {
+  margin-bottom: 10px;
+}
+
+legend {
+  border: solid 1px #0000c5;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 20px;
+  background: #cccccc;
+}
+
+ul {
+  list-style: none;
+}
+
+#imagenes {
+  margin: 0.5em;
+  padding: 0.5em;
+  float: left;
+}
